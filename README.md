@@ -44,4 +44,5 @@ b. True Posite Ratios is computed for all binary maps at increasing areal percen
 
 Part 4 Summary tables. Model selection based on a trade-off between True Posite Ratios and minimal area from Succes Rate.
 
-**Note: When we refer to occurrence areas it corresponds to affected areas in the study case.
+**Note: 1. When we refer to occurrence areas it corresponds to affected areas in the study case.
+        2. The data for research reproducibility is include in this link. The first line correspond to the database head.
