@@ -6,6 +6,9 @@ Script first purpose: New machine learning feature selection method applied to t
 Script second purpose:Selecting a feature subset that optimise both the overall accuracy and the potentially occurrence area, using the Success Rate
 Script filename: AFGRRF.R Version Date: August, 2021
 
+AFGRRF code has been developed by Lorenzo Carlos Quesada-Ruiz (University of Seville), Víctor Francico Rodríguez Galiano (University of Seville), Raúl Zurita Milla (University of Tweente) and Emma Izquierdo Verdiguier (University of Boku).
+
+
 I N S T R U C T I O N S
 
 This script consists of several parts and sub-parts.
